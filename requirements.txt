@@ -1,0 +1,13 @@
+torch>=2.3
+transformers>=4.56
+datasets>=2.20
+accelerate>=0.33
+peft>=0.12
+scipy
+numpy
+packaging
+# chạy / kiểm tra notebook
+jupyter
+nbformat
+nbclient
+pytest
